@@ -1,5 +1,6 @@
 Bienvenido a "La Mansión del Terror", un juego de aventuras en el que debes escapar de una misteriosa mansión. Explora habitaciones, encuentra y recoge objetos clave como una llave y una escalera, y utiliza comandos para interactuar con el entorno.
-Instrucciones del Juego:
+    
+    Instrucciones del Juego:
 
     Explora Habitaciones:
         Mueve a través de la mansión usando los comandos: ir norte, ir sur, ir este, ir oeste.
